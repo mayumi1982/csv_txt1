@@ -14,5 +14,6 @@ close_app(): Esta função é chamada quando o botão "Sair" é clicado. Ela fec
 
 ### Aos pouquinhos, vamos evoluindo!
 
+![the-office-gif-9](https://github.com/mayumi1982/csv_txt1/assets/70608757/bfecef3b-624f-4cdc-b82c-2f7ca48f9e33)
 
 
